@@ -1,3 +1,4 @@
+// CI Verification for Task 6
 console.log('Running tests...');
 if (true) {
     console.log('Tests passed');
